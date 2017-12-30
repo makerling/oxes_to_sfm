@@ -13,7 +13,10 @@
     <xsl:for-each select="oxesText/canon/book">
         \id <xsl:value-of select="@ID"/>
         \h <xsl:value-of select="titleGroup/@short"/>
-        \mt <xsl:value-of select="titleGroup/title/trGroup/tr"/>
+        \\mt**\\mt <xsl:text>==</xsl:text><xsl:for-each select="titleGroup/title/annotation">
+               <xsl:value-of select="notationQuote/para/span"/>**<xsl:value-of select="@oxesRef"/><xsl:text>==</xsl:text>
+        </xsl:for-each>
+	<xsl:value-of select="titleGroup/title/trGroup/tr"/><xsl:text>**</xsl:text>
         <xsl:for-each select="section">
             <xsl:if test="p/chapterStart">
                 \c <xsl:value-of select="p/chapterStart/@n"/>             
@@ -34,16 +37,15 @@
                     </xsl:if>
                     <xsl:if test="name(.) = 'verseStart'"><!--finds verse number and the following first sibling of the first trGroup, the rest of the verse gets handles by line 33-->
                         <xsl:variable name="versenumb" select="@ID" /><!--reserving versenum to only process annotation for current verse-->
-                        \v <xsl:value-of select="@n"/>
-                        <xsl:text> annotation:**</xsl:text>
+                        \\v**\\v <xsl:value-of select="@n"/>
                         <xsl:for-each select="../*">
                             <!--versenumb is:<xsl:value-of select="$versenumb"/> oxesRef is:<xsl:value-of select="@oxesRef"/>-->
                             <xsl:if test="@oxesRef=$versenumb"> 
-                                <xsl:value-of select="$versenumb"/>*<xsl:value-of select="notationQuote/para/span"/><xsl:text>**</xsl:text>
+                                <xsl:text>==</xsl:text><xsl:value-of select="notationQuote/para/span"/>**<xsl:value-of select="$versenumb"/>
                             </xsl:if>
                         </xsl:for-each>
-                        <xsl:text>** </xsl:text>
-                        <xsl:value-of select="./following-sibling::trGroup[1]/tr"/>
+			<xsl:text>==</xsl:text>
+                        <xsl:value-of select="./following-sibling::trGroup[1]/tr"/><xsl:text>**</xsl:text>
                     </xsl:if>
                 </xsl:for-each>
             </xsl:for-each>

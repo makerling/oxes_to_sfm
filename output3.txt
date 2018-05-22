@@ -1,0 +1,43 @@
+\id GEN
+\h Sifr-Ü Tekvîn El-Mahlûkât
+\\mt**\\mt ==Sifr**GEN.0.0==Sifr-ü Tekvîn el-Mahlûkât**GEN.0.0==Tekvîn el-Mahlûkât**GEN.0.0==Sifr-ü Tekvîn el-Mahlûkât**
+\c 1
+\s Evvelki fasl \p
+\\v**\\v 1==Allâh**GEN.1.1==İbtidâ**GEN.1.1==####İbtidâda Allâh gökleri ve yeri yaratmışdır 
+\\v**\\v 2==tehî**GEN.1.2==hâlî**GEN.1.2==lücce**GEN.1.2==Allâhıŋ Rûhu**GEN.1.2==dahi**GEN.1.2==####ve yer tehî ve hâlî idi • lücceniŋ dahi üzerinde karaŋlık idi ve sularıŋ üzerinde Allâhıŋ Rûhu deprenir idi 
+\\v**\\v 3==Allâh**GEN.1.3==####ve Allâh aydınlık olsun dėdi ve aydınlık oldu 
+\\v**\\v 4==hem**GEN.1.4==####hem Allâh aydınlığıŋ güzel olduğunu gördü ve Allâh aydınlığı karaŋlıklardan ayırdı 
+\\v**\\v 5==tesmiye**GEN.1.5==ahşâm**GEN.1.5==sabâh**GEN.1.5==evvelki**GEN.1.5==ahşâm**GEN.1.5==eyle**GEN.1.5==gėce**GEN.1.5==####ve Allâh aydınlığını gün ve karaŋlığı gėce tesmiye eyledi ve ahşâm ve sabâh olunca evvelki gün oldu  \p
+\\v**\\v 6==rakîʿ**GEN.1.6==####Ve dahi Allâh dėdi ki sularıŋ ortasında bir rakîʿ olsun ki suları sulardan ayıra 
+\\v**\\v 7==pes**GEN.1.7==####pes Allâh rakîʿi yapdı ve rakîʿiŋ altında olan suları rakîʿiŋ üstünde olan sulardan ayırdı ve böyle oldu 
+\\v**\\v 8==âhşâm**GEN.1.8==####ve Allâh rakîʿye gök diyẻ ad kodu ve âhşâm ve sabâh olunca ikinci gün oldu \p
+\\v**\\v 9==####Ondan Allâh dėdi ki gök altında olan sular bir yere devşirilsinler ve kara görünsün pes böyle oldu 
+\\v**\\v 10==ictimâʿ**GEN.1.10==íyỉ**GEN.1.10==####ve Allâh karaya yer adını kodu ve ol sularıŋ ictimâʿını deŋiz tesmiye eyledi ve Allâh gördü ki íyỉ oldu  \p
+\\v**\\v 11==tenbît**GEN.1.11==nevʿ**GEN.1.11==kendỉ**GEN.1.11==####Ve dahi Allâh dėdi ki yer ot tenbît eylesin • tohum vėren otu hem kendỉ nevʿine göre yemiş vėrir meyvedâr ağacı ki içinde yer üzerinde tohumu ola pes böyle oldu 
+\\v**\\v 12==ėdip**GEN.1.12==####ve yer otu tenbît ėdip kendỉ nevʿine göre tohum vėren otu ve kendỉ cinsine göre içi tohumlu yemiş vėren ağacı getirdi ve Allâh gördü ki íyỉ oldu 
+\\v**\\v 13==ahşâm**GEN.1.13==####ve ahşâm ve sabâh olunca üçüncü gün oldu \p
+\\v**\\v 14==içỉn**GEN.1.14==ʿalâmet**GEN.1.14==nûr**GEN.1.14==####Hem Allâh dėdi ki göḡüŋ rakîʿinde nûrlar olsun ki günü gėceden ayırıp ʿalâmetler ve vakitler ve günler ve yıllar içỉn olalar 
+\\v**\\v 15==####ve göḡüŋ rakîʿnde nûrlar olup yere aydınlık vėreler ve böyle oldu 
+\\v**\\v 16==pes**GEN.1.16==####pes Allâh iki büyük nûrlar yapdı • büyükrek nûru günüŋ hükmiçỉn ve küçükrek nûru gėceniŋ hükmiçỉn hem yıldızları yaratdı 
+\\v**\\v 17==####ve Allâh ȯnları göḡüŋ rakîʿinde kodu ki yere aydınlık vėreler 
+\\v**\\v 18==####ve güne ve gėceye hükm ėdip aydınlığı karaŋlıkdan ayıralar ve Allâh gördü ki íyỉ oldu 
+\\v**\\v 19==####ve ahşâm ve sabâh olunca dördüncü gün oldu \p
+\\v**\\v 20==sürtün**GEN.1.20==cânvar**GEN.1.20==vâfir**GEN.1.20==####Allâh dahi dėdi ki sular vâfir sürtünen cânvarlar çıkarsınlar ve kuşlar yer üzerinde gök rakîʿniŋ katında uçsunlar 
+\\v**\\v 21==####pes Allâh büyük ada balıklarını ve cümle sürtünen cânvarlarıyaratdı ki ȯnları sular kendỉ nevʿine göre çıkardılar hem kendỉ cinsine göre her kanadlı kuşu yaratdı ve Allâh gördü ki íyỉ oldu 
+\\v**\\v 22==neşv ü nümâ**GEN.1.22==deryâ**GEN.1.22==####ve Allâh ȯnlara bereket ėdip dėdi ki neşv ü nümâ buluŋ ve çoğalıŋ ve deryâlarda olan suları dolduruŋ hem kuşlar yer üzerinde çoğalsınlar 
+\\v**\\v 23==####ve ahşâm ve sabâh olunca beşinci gün oldu \p
+\\v**\\v 24==behîme**GEN.1.24==pes**GEN.1.24==haşerât**GEN.1.24==####Ve Allâh dėdi ki yer kendỉ nevʿine göre cânvarı ve behîmeleri ve haşerâtı ve kendỉ cinsine göre yeriŋ hayvânâtını çıkarsın pes böyle oldu 
+\\v**\\v 25==halk**GEN.1.25==####ȯndan Allâh yeriŋ hayvânâtını kendỉ cinsine göre ve behîmelerini kendỉ nevʿine göre ve yeriŋ haşerâtını kendỉ cinsine göre halk eyledi ve Allâh gördü ki íyỉ oldu  \p
+\\v**\\v 26==insân**GEN.1.26==tasallut**GEN.1.26==müşâbehet**GEN.1.26==####Ve dahi Allâh dėdi ki sûretimiz üzere ve müşâbehetimiz üzere insânı yapalım ki deŋiz balıklarına ve havâ kuşlarına ve behîmelerine ve cümle yere ve cümle yer üzerinde sürtünen haşerâta tasallut eyleye 
+\\v**\\v 27==Allâh kendỉ sûreti üzere insânı yaratdı**GEN.1.27==ȯnủ**GEN.1.27==####pes Allâh kendỉ sûreti üzere insânı yaratdı • ȯnủ Allâh sûreti üzere yaratdı • ȯnları erkek ve dişi halk eyledi 
+\\v**\\v 28==zabt**GEN.1.28==hayvân**GEN.1.28==####ve Allâh ȯnları bereketledi hem ȯnlara dėdi ki neşv ü nümâ buluŋ ve yeri doldurup ȯnủ zabt ėdiŋ ve deŋiz balıklarına hem havâ kuşlarına hem yer üzerinde sürtünen her hayvâna tasallut eyleyiŋ  \p
+\\v**\\v 29==rûy-i zemîn**GEN.1.29==####Ve Allâh dėdi ki işte size bütün rûy-i zemînde olan cümle tohumlu otu ve cümle tohumlu meyveyi vėren ağacı vėrdim ki size yemek içỉn ola 
+\\v**\\v 30==cân**GEN.1.30==yeşil**GEN.1.30==####ve cümle yer hayvânâtına ve cümle havâ kuşlarına ve cümle yer üzerinde sürtünenlere ki ȯnlarda diri cân var her yeşil otu yemek içỉn vėrdim pes böyle odu 
+\\v**\\v 31==####ve Allâh her yapdığını gördü ve işte pek íyỉ oldu ve ahşâm ve sabâh olunca altıncı gün oldu ∞ 
+\c 2
+\s İkinci fasl \p
+\\v**\\v 1==ʿasker**GEN.2.1==itmâm**GEN.2.1==####Ve gökler ve yer hem ȯnlarıŋ cümle ʿaskeri itmâm oldu 
+\\v**\\v 2==istirâhat**GEN.2.2==####ve Allâh kendỉ yapdığı işini yedinci günde itmâm ėtdikden soŋra her yapdığı işinden yedinci günde istirâhat eyledi 
+\\v**\\v 3==zîrâ**GEN.2.3==ol**GEN.2.3==takdîs**GEN.2.3==####ve Allâh yedinci günü bereketleyip ȯnủ takdîs eyledi zîrâ Allâh cümle yapıp yaratdığı işinden ol günde istirâhat eyledi  \p
+\\v**\\v 4==halk**GEN.2.4==Rabb Allâh**GEN.2.4==zamân**GEN.2.4==####Gökleriŋ ve yeriŋ halk oldukları zamân âsılları bu idi Rabb Allâh yeri ve gökleri yaratdığı günde 
+\\v**\\v 5==cemîʿ**GEN.2.5==nadas**GEN.2.5==âdam**GEN.2.5==sahrâ**GEN.

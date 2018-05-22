@@ -47,4 +47,10 @@ for x in cars:
 	print "key   is:",x, "\nvalue is:", cars[x]
 	print
 print
+*********************************************************************************
+how to debug:
+
+python -m pdb myscript.py
+
+press n to step through 
 

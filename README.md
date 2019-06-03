@@ -5,4 +5,5 @@ Script should be run on linux. Run "bash migration-master.sh [project number e.g
 
 On Ubuntu the following package must be installed: libsaxonb-java
 
-The results will be available in the "working directory" folder. 
+The results will be available in the "working directory" folder. A .csv file is also generated to QA which verses don't match the selected footnote.
+
